@@ -6,7 +6,7 @@
 ***
 
 ## 메인 페이지
-<img width="1000" alt="image" src="https://github.com/TRIP-SHOT/.github/assets/76212667/8cb5ec2a-9951-40ff-9c0d-fda9090340a0">
+<img width="452" alt="image" src="https://github.com/TRIP-SHOT/.github/assets/76212667/8cb5ec2a-9951-40ff-9c0d-fda9090340a0">
 
 ## 여행 관련 AI 검색 기능
 <img width="452" alt="image" src="https://github.com/TRIP-SHOT/.github/assets/76212667/7727d8f3-e348-4ace-be7e-1275d792eb00">
@@ -38,10 +38,8 @@
 ## 내 찜 목록
 <img width="452" alt="image" src="https://github.com/TRIP-SHOT/.github/assets/76212667/c427cdd1-6ae7-4de3-a711-44ca4eaad20e">
 
-
-
 ***
-### 구조
+### 아키텍처
 ![image](https://github.com/TRIP-SHOT/.github/assets/85207194/61752d2c-0a62-48dc-ac3f-cc89a0e997d2)
 ***
 
