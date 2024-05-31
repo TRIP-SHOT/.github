@@ -3,13 +3,9 @@
 
 ##### ‘여행을 사진에 담다’라는 슬로건의 준말 ‘사담’ 서비스는 사용자들이 직접 찍은 아름다운 사진 정보를 공유함으로써 여행지를 추천해주는 서비스를 제공합니다.<br>
 
-* * *
+### 구조
+![image](https://github.com/TRIP-SHOT/.github/assets/85207194/e0303f4b-7d1e-4544-85d1-be3ce452f657)
 
-### 서비스 소개 영상
-
-https://youtu.be/ixtNoz3R-VQ?si=cRQ3di4RYC8LrrUP
-
-* * *
 
 ### Clients
 Name|GitHub|Email
